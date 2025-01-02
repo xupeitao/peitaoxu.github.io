@@ -1344,19 +1344,20 @@ footer
 */
 
 footer {
-  padding: 50px 0px;
-  background-image: url(../images/slide-02.jpg);
+  padding: 65px 0px;
+  background-image: url(../pic/Footerbanner-00.png);
+  /* background-image: url(../images/slide-02.jpg); */
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;}
 
 footer .left-text-content p {
-  color: #fff;
+  color: #4a4a4a;
   font-size: 16px;
 }
 
 footer .left-text-content a {
-  color: #fff;
+  color: #4a4a4a;
 }
 
 footer .right-text-content {
@@ -1364,7 +1365,7 @@ footer .right-text-content {
 }
 
 footer .right-text-content p {
-  color: #fff;
+  color: #4a4a4a;
   font-size: 16px;
   margin-right: 15px;
   text-transform: uppercase;
@@ -1380,10 +1381,10 @@ footer .right-text-content ul li a {
   display: inline-block;
   text-align: center;
   line-height: 32px;
-  font-size: 14px;
-  background-color: #fff;
+  font-size: 16px;
+  background-color: #98a2c8;
   border-radius: 50%;
-  color: #5fb759;
+  color: #ffffff;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
